@@ -1,0 +1,17 @@
+// cmmmc
+citeste a,b
+p<-a*b
+cattimp a<>0 si b<>0 executa
+	daca a>b atunci
+		a<-a-b
+		altfel
+			daca a<b atunci
+				b<-b-a
+				altfel
+					daca a=b atunci
+						scrie [p/a]
+						a<-0
+					sfd
+			sfd
+	sfd
+sfc

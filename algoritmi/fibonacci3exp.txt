@@ -1,0 +1,13 @@
+Sirul lui Fibonacci este un
+sir recurent si are formula
+generala x[i] = x[i-2] + x[i-1]
+pentru i>=3 , x[0]=0 si x[1]=1
+x[2]=1.
+
+Acest algoritm verifica daca
+numarul dat apartine sirului
+lui Fibonacci . 
+
+ex : pt n = 5 se va afisa DA
+
+ex : pt n = 4 se va afisa NU 

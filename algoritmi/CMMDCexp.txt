@@ -1,0 +1,11 @@
+CMMDC = cel mai mare divizor comun
+Algoritmul functioneaza
+dupa teorema lui Euclid
+
+Din cel mai mare se va 
+scadea cel mai mic pana
+aceste ajung egale , cand
+algoritmul se termina 
+deoarece s-a ajung la cel
+mai mare divizor comun al
+celor 2 numere.

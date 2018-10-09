@@ -1,0 +1,15 @@
+Sirul lui Fibonacci este un
+sir recurent si are formula
+generala x[i] = x[i-2] + x[i-1]
+pentru i>=3 , x[0]=0 si x[1]=1
+x[2]=1.
+
+Acest algoritm afiseaza 
+toate numerele din sirul lui
+Fibonacci din intervalul [0,n]. 
+
+ex : pt n = 5 se va afisa
+0,1,1,2,3,5
+
+ex : pt n = 2 se va afisa
+0,1,1,2 

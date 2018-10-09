@@ -1,0 +1,15 @@
+Un numar este prim doar
+daca are exact 2 divizori,
+pe 1 si pe el insusi .
+
+ex : 13 este prim, deoarece
+se divide doar cu 1 si 13
+
+ex2: 15 nu este prim, deoarece
+este divizibil cu 1,3,5,15
+
+Algoritmul numara divizorii lui n
+din intervalul [1,n]
+Daca gaseste exact 2 divizori se
+afiseaza DA , altfel se va afisa
+NU.

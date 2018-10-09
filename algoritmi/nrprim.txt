@@ -1,0 +1,13 @@
+// numar prim
+citeste n
+k<-0
+pentru i<-1,n,1 executa
+	daca n%i=0 atunci
+		k<-k+1
+	sfd
+sfp
+daca k=2 atunci
+	scrie "DA"
+	 altfel
+	scrie "NU"
+sfd

@@ -1,0 +1,13 @@
+//numere din sir pana la n
+citeste n
+a<-1
+b<-0
+c<-0
+catttimp c<n executa
+	c<-a+b
+	a<-b
+	b<-c
+	daca c<=n atunci
+		scrie c," "
+	sfd
+sfc

@@ -1,0 +1,8 @@
+//suma cifre
+citeste n
+s<-0
+cattimp n>0 executa
+   s<-s+n%10
+   n<-[n/10]
+sfc
+scrie s

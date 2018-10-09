@@ -1,0 +1,10 @@
+CMMMC = cel mai mic multiplu
+comun
+
+CMMMC matematic este egal cu
+produsul numerelor imparit la 
+CMMDC(cel mai mare divizor comun)
+
+Algoritmul calculeaza prima data
+CMMDC-ul iar apoi afiseaza rezultatul
+impartirii .

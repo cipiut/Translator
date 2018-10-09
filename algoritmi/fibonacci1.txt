@@ -1,0 +1,11 @@
+// primele numere din fibonacci
+citeste n
+a<-1
+b<-0
+cattimp n>0 executa
+	c<-a+b
+	a<-b
+	b<-c
+	scrie c," "
+	n<-n-1
+sfc

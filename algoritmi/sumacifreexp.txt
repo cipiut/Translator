@@ -1,0 +1,8 @@
+Algoritmul preia fiecare
+cifra din numar incepand 
+cu ultima din dreapta .
+Cifra este adunata intr-o
+variabila care memoreaza 
+suma si numarului ii este
+taiata ultima cifra .
+La final se va afisa suma.

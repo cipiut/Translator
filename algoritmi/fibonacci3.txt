@@ -1,0 +1,18 @@
+// apartenenta unui nr la fibonacci
+citeste n
+a<-1
+b<-0
+c<-0
+ok<-0
+cattimp c<=n executa
+	c<-a+b
+	a<-b
+	b<-c
+	daca c=n atunci
+		scrie "DA"
+		ok<-1	
+	sfd
+sfc
+daca ok=0 atunci
+	scrie "NU"
+sfd
